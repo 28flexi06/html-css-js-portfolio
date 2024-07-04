@@ -313,6 +313,10 @@ section {
     margin: auto 0;
 }
 
+.language-text {
+    display: none;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
